@@ -1,7 +1,7 @@
 {
   "title": "torque",
   "uid": "torque",
-  "description": "torque gallery shows works selected by a series of community curators. one work by the curator may be included, maximum 10 art works. curators are changed weekly (where/when available).  torque = Latin for chain to represent the chain of curators, artists and platform",
+  "description": "torque gallery shows works selected by a series of community curators. maximum 10 art works, one work by the curator may be included (eg 1/10 objkts). curators are changed weekly (where/when available).  torque = Latin for chain to represent the chain of curators, artists and platform",
   "minimal": true,
   "data": [
     {
