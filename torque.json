@@ -1,0 +1,58 @@
+{
+  "title": "torque",
+  "uid": "torque",
+  "description": "torque gallery shows works selected by a series of community curators. one work by the curator may be included, maximum 10 art works. curators are changed weekly (where/when available).  torque = Latin for chain to represent the chain of curators, artists and platform",
+  "minimal": true,
+  "data": [
+    {
+      "artist": "curator: AliaK",
+	  "wallet": "tz1eky73coNLY3e8b3rzBihpkC799Db3UtKp",
+      "objkt": [505]
+    },
+    {
+      "artist": "Ariel Malka",
+      "wallet": "tz1ityKVKAo1fNgemGym7u5xq1QoKrngfd2g",
+      "objkt": [43399]
+    },
+    {
+      "artist": "A Bill Miller",
+      "wallet": "tz1Lcb7Xp977vT8Zqbd7FwpbHu3disort9Yc",
+      "objkt": [54654]
+    },
+    {
+      "artist": "sintang ligalig",
+      "wallet": "tz2G5SBeAJVbiE1icji3P59Lx8EvcwMLEHp3",
+      "objkt": [39700]
+    },
+    {
+      "artist": "Jordan Meyer",
+      "wallet": "tz1PbRHWwrfMdSFEUNzy33VjKxDgZ2WcQi3E",
+      "objkt": [1170]
+    },
+    {
+      "artist": "rareforce1",
+      "wallet": "tz1gLHXnrTxL3LihtZ9jmTQhkmBv5xGid15T",
+      "objkt": [46492]
+    },
+    {
+      "artist": "poltergeist",
+      "wallet": "tz1gDtrdr3KnuduuYvPMXsyfnnEW3751Yvtk",
+      "objkt": [48106]
+    },
+    {
+      "artist": "Henrikaau",
+      "wallet": "tz1VvU2U25MH2bimpEz4Ahnawa7ugtkL8XnH",
+      "objkt": [50489]
+    },
+    {
+      "artist": "tz1WYfuya99m1KVWUpAGa2m15YHY13ZAsPgo",
+      "wallet": "tz1WYfuya99m1KVWUpAGa2m15YHY13ZAsPgo",
+      "objkt": [56401]
+    },
+    {
+      "artist": "Helio Santos Sanchez",
+      "wallet": "tz1S8Lc2zGSDDVeHqn1BSYDz6tmkuBNSEAY4",
+      "objkt": [45706]
+    }
+  ]
+}
