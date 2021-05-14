@@ -1,13 +1,12 @@
 {
   "title": "torque",
   "uid": "torque",
-  "description": "torque gallery shows works selected by a series of community curators. maximum 10 art works, one work by the curator may be included (eg 1/10 objkts). curators are changed weekly (where/when available).  torque = Latin for chain to represent the chain of curators, artists and platform",
+  "description": "torque gallery shows works selected by a series of community curators ::: torque = Latin for chain to represent the chain of curators, artists and platform ::: maximum 10 objkts, one work by the curator may be included (eg 1/10 objkts). curators are changed ~weekly",
   "minimal": true,
   "data": [
     {
       "artist": "curator: AliaK",
-	  "wallet": "tz1eky73coNLY3e8b3rzBihpkC799Db3UtKp",
-      "objkt": [505]
+	  "wallet": "tz1eky73coNLY3e8b3rzBihpkC799Db3UtKp"
     },
     {
       "artist": "Ariel Malka",
@@ -53,6 +52,11 @@
       "artist": "Helio Santos Sanchez",
       "wallet": "tz1S8Lc2zGSDDVeHqn1BSYDz6tmkuBNSEAY4",
       "objkt": [45706]
+    },
+    {
+      "artist": "Andrew E Brereton",
+      "wallet": "tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt",
+      "objkt": [45107]
     }
   ]
 }
