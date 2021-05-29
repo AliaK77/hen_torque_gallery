@@ -5,10 +5,6 @@
   "minimal": true,
   "data": [
     {
-      "artist": "curator: AliaK",
-	  "wallet": "tz1eky73coNLY3e8b3rzBihpkC799Db3UtKp"
-    },
-    {
       "artist": "Ariel Malka",
       "wallet": "tz1ityKVKAo1fNgemGym7u5xq1QoKrngfd2g",
       "objkt": [43399]
@@ -57,6 +53,10 @@
       "artist": "Andrew E Brereton",
       "wallet": "tz1ZBMhTa7gxSpaeXoqyc6bTCrxEHfZYSpPt",
       "objkt": [45107]
+    },
+    {
+      "artist": "curator: AliaK",
+	  "wallet": "tz1eky73coNLY3e8b3rzBihpkC799Db3UtKp"
     }
   ]
 }
